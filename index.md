@@ -25,9 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<html>
-<img src=“0.jpg”>
-</html>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
